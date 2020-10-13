@@ -88,3 +88,7 @@ The rest of this article assumes you are running the docker command as a user in
 Let’s explore the docker command next.
 
 
+install docker compose
+
+[https://docs.docker.com/compose/install/]
+
